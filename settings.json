@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "kmeci1.aternos.me:29740",
+    "ip": "kmeci1.aternos.me",
     "port": 29740,
     "version": "1.21.11",
     "try-creative": false
